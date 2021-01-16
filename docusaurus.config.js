@@ -8,6 +8,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'open-nps', // Usually your GitHub org/user name.
   projectName: 'open-nps.github.io', // Usually your repo name.
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "pt-BR"]
+  },
   themeConfig: {
     navbar: {
       title: 'Open NPS',

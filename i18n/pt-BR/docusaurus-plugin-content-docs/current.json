@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Próximo",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Getting started": {
+    "message": "Começando",
+    "description": "The label for category Getting started in sidebar someSidebar"
+  }
+}
