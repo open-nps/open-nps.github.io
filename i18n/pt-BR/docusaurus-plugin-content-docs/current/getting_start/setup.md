@@ -1,5 +1,5 @@
 ---
-id: install
+id: setup
 sidebar_label: Instalando o OpenNPS
 slug: /
 ---
